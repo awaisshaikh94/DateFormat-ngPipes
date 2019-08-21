@@ -1,3 +1,6 @@
+# DatePipe 
+https://angular.io/api/common/DatePipe
+
 # DateTime-ngPipes
 
 date converter to milliseconds and also milliseconds to date
